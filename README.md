@@ -122,5 +122,3 @@ A copy of the license is available in the repository's [license.txt](https://raw
 
 [](Esri Tags: ArcGIS ArcGIS Online Web Application boilerplate template widget dijit Esri JavaScript application)
 [](Esri Language: JavaScript)
-
-Updates by Stephanie
