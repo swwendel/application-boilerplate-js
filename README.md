@@ -1,4 +1,4 @@
-# application-boilerplate-js
+﻿# application-boilerplate-js
 
 The Application Boilerplate is a starter application for building custom templates with the ArcGIS API for JavaScript.
 
@@ -123,3 +123,9 @@ A copy of the license is available in the repository's [license.txt](https://raw
 [](Esri Tags: ArcGIS ArcGIS Online Web Application boilerplate template widget dijit Esri JavaScript application)
 [](Esri Language: JavaScript)
 
+:D
+
+<<<<<<< HEAD
+=======
+Updates by Stephanie
+>>>>>>> origin/gh-pages
