@@ -1,8 +1,53 @@
 {
     "configurationSettings": [
         {
-            "category": "",
-            "fields": []
+            "category": "General Settings",
+            "fields": [
+                {
+                    "type": "options",
+                    "fieldName": "theme",
+                    "tooltip": "Color theme to use",
+                    "label": "Color Scheme:",
+                    "options": [
+                        {
+                            "label": "Blue",
+                            "value": "blue"
+                        },
+                        {
+                            "label": "Green",
+                            "value": "green"
+                        },
+                        {
+                            "label": "Orange",
+                            "value": "orange"
+                        }
+                    ]
+                },
+                {
+                    "type": "string",
+                    "fieldName": "layer",
+                    "label": "Analysis Layer",
+                    "tooltip": "Feature Layer with Facilities to search"
+                },
+                {
+                    "type": "string",
+                    "fieldName": "orgname",
+                    "label": "Organization Name:",
+                    "tooltip": "",
+                    "stringFieldOption": "richtext",
+                    "placeHolder": "Organization Name"
+                },
+                {
+                    "type": "number",
+                    "fieldName": "bufferdistance",
+                    "label": "Search Distance (miles)",
+                    "value": "1"
+                }
+            ]
         }
-    ]
+    ],
+    "values": {
+        "theme": "orange",
+        "bufferdistance": 1
+    }
 }
